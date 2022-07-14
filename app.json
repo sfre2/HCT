@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID的网站: https://www.uuidgenerator.net",
-            "value": "2ee7217b-95fb-3r8d-930a-c4254209bcdd"
+            "value": "0567a533-29cb-4793-8a77-48f70c0f577e"
         },
         "CADDYIndexPage": {
             "description": "自定义参考",
@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/你的用户名/项目地址/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/sfre2/HCT/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/你的用户名/项目地址/master/etc/wry.json"
+            "value": "https://raw.githubusercontent.com/sfre2/HCT/master/etc/wry.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/你的用户名/项目地址/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/sfre2/HCT/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/你的用户名/项目地址",
-    "repository": "https://github.com/你的用户名/项目地址",
+    "website": "https://github.com/sfre2/HCT",
+    "repository": "https://github.com/sfre2/HCT",
     "stack": "container"
 }
